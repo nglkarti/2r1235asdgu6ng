@@ -1,4 +1,4 @@
-const apiConfigs = [
+var apiConfigs = [
   {
     tagUrl: "https://api.github.com/repos/nglkarti/dsfsdfhHYL0qzNSWj66435/git/refs/tags",
     releaseUrl: "https://api.github.com/repos/nglkarti/dsfsdfhHYL0qzNSWj66435/releases",
